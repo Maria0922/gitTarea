@@ -1,0 +1,22 @@
+.card1{
+    width: 18rem;
+    height: 25rem;
+    text-align: center;
+    font-size: 13px;
+}
+
+.cardcolor{
+    background-color: #F7FAFD;
+    margin-top: 125px;
+
+}
+
+.mb-2{
+    font-size: 25px;
+}
+
+.text{
+    margin-left: -5px;
+    font-size: 13px;
+    
+}
