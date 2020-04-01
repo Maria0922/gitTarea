@@ -21,3 +21,12 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+/public
+App.css
+App.js
+App.test.js
+index.css
+logo.svg
+serviceWorker.js
+setupTests.js
