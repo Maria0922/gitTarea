@@ -1,5 +1,6 @@
-#Esta es la primer tarea de GIT hecha con React
-**echo por Maria Jose **
+### Esta es mi primer tarea de GIT
 
-#Este Repositorio esta hecho con un proyecto anterior donde 
-#clonamos la pagina de Rstudio.
+**Hecho por Maria Jose**
+
+## Este proyecto se realizo en React, de un proyecto anterio donde se clono parte de la pagina de Rstudio.
+ 
